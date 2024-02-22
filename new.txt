@@ -1,3 +1,5 @@
 welcome to my GIT.
 New one.
 going to test this line.
+going to reset.
+going to revert.
